@@ -1,3 +1,31 @@
 .emcandy {
     font-family: 'Emilys Candy', cursive;
 }
+
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+.mmenu {
+    display: table;
+    margin: 0 auto;
+    font-size: 30px;
+}
+
+a:link {
+    color: lime;
+  }
+  
+a:visited {
+    color: green;
+  }
+
+a:hover {
+    color: lime;
+  }
