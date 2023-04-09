@@ -29,3 +29,15 @@ a:visited {
 a:hover {
     color: lime;
   }
+
+h2 {
+    font-size: 30px;
+    color: lime;
+    font-family: 'Emilys Candy', cursive;
+}
+
+p,
+.lists {
+    font-family: 'Comic Neue', cursive;
+    font-size: 18px;
+}
